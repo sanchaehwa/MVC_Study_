@@ -3,7 +3,7 @@
 ## Model 1 Architecture & Model 2 Architecture
 
 JSP를 이용하여 구성할 수 있는 (Web)App Server 는 Model1/2 Architecture 로 처리를 수행.
-Model1 은, JSP가 Client 요청에 대한 로직처리와 View(response Page)에 대한 처리를 모두 수행.
+Model1 은, JSP가 Client 요청에 대한 로직처리와 View(response Page)에 대한 처리를 모두 수행함.
 
 Model2 은, JSP가 View에 대한 처리만 수행 (= MVC(Model View Controller) Pattern을 웹 개발에 도입한 구조)
 
